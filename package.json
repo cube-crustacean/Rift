@@ -1,0 +1,15 @@
+{
+  "name": "rift",
+  "version": "1.0.0",
+  "description": "Rift - a ChatGPT-style AI chatbot powered by Groq, deployed on Netlify.",
+  "private": true,
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
